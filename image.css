@@ -1,0 +1,29 @@
+body{
+    background-image: url("one\ piece\ 4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.img{
+    text-align: center;
+    font-size: 150px;
+    
+}
+.image{
+    height:400px;
+    width:400px;
+    border-radius: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+.nakama
+{
+    font-size: 50px;
+    text-align: center;
+}    
+.SHICHIBUKAI
+{
+    font-size: 50px;
+    text-align: center;
+}    
